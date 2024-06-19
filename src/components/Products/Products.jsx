@@ -26,7 +26,6 @@ import img24 from "../../assets/evento/imagem24.jpeg";
 import img25 from "../../assets/evento/imagem25.jpeg";
 import { GalleryProducts } from "./GalleryProducts";
 
-// Dados dos produtos
 const ProductsData = [
   {
     id: 1,

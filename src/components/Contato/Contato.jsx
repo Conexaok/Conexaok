@@ -109,5 +109,4 @@ const Contato = () => {
     </div> /* Fim do container principal */
   );
 };
-
 export default Contato; // Exporta o componente Contato

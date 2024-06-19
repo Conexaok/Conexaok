@@ -28,8 +28,6 @@ const TestimonialData = [
     img: "https://picsum.photos/103/103",
   },
 ];
-
-// Componente de Testemunhos
 const Testimonials = () => {
   // Configurações do Slider
   var settings = {

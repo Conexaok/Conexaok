@@ -59,7 +59,6 @@ const DropdownLinks = [
 
 const Navbar = ({ handleOrderPopup }) => {
 
-
   const openWhatsApp = () => {
     // Número de telefone completo com código do país e DDD
     const phoneNumber = '558195042474';

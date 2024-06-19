@@ -51,7 +51,6 @@ const Clientes = ({ isDarkMode }) => {
   const handleLogoLeave = (event) => {
     event.target.style.transform = "translateY(0)";
   };
-
   return (
     <div className="min-h-[550px] flex justify-center items-center py-12 sm:py-0">
       <div className="container">

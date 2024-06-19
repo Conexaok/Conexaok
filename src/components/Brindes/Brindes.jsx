@@ -72,7 +72,6 @@ const Brindes = () => {
     setGalleryImages(galleryImages);
     setShowGallery(true);
   };
-
   return (
     <div id="Brindes" className="mt-14 mb-12">
       <div className="container">

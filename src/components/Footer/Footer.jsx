@@ -71,7 +71,6 @@ const Footer = () => {
                 className="max-w-[200px]"
                 style={{ filter: "invert(0)" }}
               />
-             
             </h1>
             {/* Descrição da empresa */}
             <p className="text-center md:text-left">Conectando ideias, marcas e pessoas!</p>

@@ -6,7 +6,7 @@ import Img4 from "../../assets/women/women4.jpg";
 import { FaStar } from "react-icons/fa6";
 import { Gallery } from "../Gallery/Gallery";
 
-// Dados dos produtos
+
 const GraficaData = [
   {
     id: 1,
